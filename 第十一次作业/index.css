@@ -1,0 +1,5 @@
+.imgage{width:251px;height:150px;float:left;}
+.imgage img{width:251px;height:150px;opacity:0.5;}
+img:hover {opacity:1;}
+.imgage img{display:inline;margin:3px;border:1px solid #bebebe;width:200px;height:160px;}
+.imgage a:hover img{border:1px solid #333333;}
